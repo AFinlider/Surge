@@ -45,3 +45,4 @@ IP-CIDR,168.138.45.100/32,no-resolve
 IP-CIDR,193.123.252.106/32,no-resolve
 IP-CIDR,38.59.244.55/24,no-resolve
 IP-CIDR,38.58.188.43/24,no-resolve
+IP-CIDR,154.9.234.215/24,no-resolve
