@@ -10,7 +10,7 @@
 # 
 DOMAIN, entry.zox.show
 DOMAIN, direct.zox.show
-DOMAIN, cdn.zox.show:443
+DOMAIN, cdn.zox.show
 # 
 DOMAIN, pilipili.club
 DOMAIN, pilipili.misakaf.org
