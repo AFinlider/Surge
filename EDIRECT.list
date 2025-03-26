@@ -9,8 +9,9 @@
 # TOTAL: 
 # 
 DOMAIN,entry.zox.show
-DOMAIN,direct.zox.show
-DOMAIN,cdn.zox.show
+# DOMAIN,direct.zox.show
+# DOMAIN,cdn.zox.show
+DOMAIN,embyplus.org
 # 
 DOMAIN,temby856.285286.xyz
 # 
