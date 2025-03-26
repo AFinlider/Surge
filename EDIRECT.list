@@ -12,13 +12,7 @@ DOMAIN,entry.zox.show
 DOMAIN,direct.zox.show
 DOMAIN,cdn.zox.show
 # 
-DOMAIN,pilipili.club
-DOMAIN,pilipili.misakaf.org
-# 
 DOMAIN,temby856.285286.xyz
-DOMAIN,temby7528.516516.xyz
-DOMAIN,temby3125.516516.xyz
-DOMAIN,temby4837.516516.xyz
 # 
 DOMAIN,embymv.link
 DOMAIN,cc.coemn.com
@@ -27,23 +21,18 @@ DOMAIN,yhemby.top
 DOMAIN,flare.catlinks.co.uk
 DOMAIN,cdsalw2lw.catlinks.co.uk
 DOMAIN,fun.poloemby.xyz
-DOMAIN,cn.apopcloud.live
 # 
 DOMAIN-SUFFIX,zox.show
-DOMAIN-SUFFIX,286286.xyz
-DOMAIN-SUFFIX,516516.xyz
 DOMAIN-SUFFIX,emby.wtf
 # 
 DOMAIN-KEYWORD,zox
-DOMAIN-KEYWORD,misakaf
-DOMAIN-KEYWORD,516516
 # 
-IP-CIDR,154.17.10.127/24,no-resolve
-IP-CIDR,108.181.0.21/32,no-resolve
-IP-CIDR,168.138.45.100/32,no-resolve
-IP-CIDR,193.123.252.106/32,no-resolve
-IP-CIDR,38.59.244.55/24,no-resolve
-IP-CIDR,38.58.188.43/24,no-resolve
-IP-CIDR,154.9.234.215/24,no-resolve
-IP-CIDR,104.21.93.254/32,no-resolve
-IP-CIDR,172.67.217.99/32,no-resolve
+# IP-CIDR,154.17.10.127/24,no-resolve
+# IP-CIDR,108.181.0.21/32,no-resolve
+# IP-CIDR,168.138.45.100/32,no-resolve
+# IP-CIDR,193.123.252.106/32,no-resolve
+# IP-CIDR,38.59.244.55/24,no-resolve
+# IP-CIDR,38.58.188.43/24,no-resolve
+# IP-CIDR,154.9.234.215/24,no-resolve
+# IP-CIDR,104.21.93.254/32,no-resolve
+# IP-CIDR,172.67.217.99/32,no-resolve
