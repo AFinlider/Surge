@@ -20,7 +20,9 @@ DOMAIN,yhemby.top
 DOMAIN,fun.poloemby.xyz
 # 
 DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,emby.wtf
 # 
 DOMAIN-KEYWORD,zox
+DOMAIN-KEYWORD,embymv
 # IP-CIDR,154.17.10.127/24,no-resolve
