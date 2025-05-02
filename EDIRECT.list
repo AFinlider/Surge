@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,zox.show
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,emby.wtf
 # 
+DOMAIN-KEYWORD,carryz
 DOMAIN-KEYWORD,zox
 DOMAIN-KEYWORD,embymv
 IP-CIDR,146.56.174.58/32,no-resolve
