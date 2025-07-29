@@ -8,12 +8,13 @@
 # IP-CIDR: 
 # TOTAL: 
 # 
-DOMAIN, misty.cx
-DOMAIN, play.charontv.com
-DOMAIN, mini.jmsuper.com
-DOMAIN, emby.nebula-media.org
-DOMAIN-SUFFIX, nebula-media.org
-DOMAIN-KEYWORD, nebula-media
+DOMAIN,misty.cx
+DOMAIN,gm.yezi.my
+DOMAIN,play.charontv.com
+DOMAIN,mini.jmsuper.com
+DOMAIN,emby.nebula-media.org
+DOMAIN-SUFFIX,nebula-media.org
+DOMAIN-KEYWORD,nebula-media
 # DOMAIN-SUFFIX, zox.show
 # DOMAIN-KEYWORD, zox
 #IP-CIDR, 104.21.93.254/24,no-resolve
