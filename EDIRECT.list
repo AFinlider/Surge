@@ -8,7 +8,6 @@
 # IP-CIDR: 
 # TOTAL: 
 # 
-DOMAIN,entry.zox.show
 DOMAIN,zoxfree.3767483.xyz
 DOMAIN,temby856.285286.xyz
 DOMAIN,embymv.link
@@ -16,14 +15,9 @@ DOMAIN,cc.coemn.com
 DOMAIN,emby.pilipiliultra.com
 DOMAIN,fun.poloemby.xyz
 # 
-DOMAIN-SUFFIX,zox.show
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,emby.wtf
 # 
 #DOMAIN-KEYWORD,carryz
-DOMAIN-KEYWORD,zox
 DOMAIN-KEYWORD,embymv
-IP-CIDR,146.56.174.58/32,no-resolve
-IP-CIDR,152.53.81.68/32,no-resolve
-IP-CIDR,209.141.55.235/32,no-resolve
 # IP-CIDR,154.17.10.127/24,no-resolve
