@@ -7,8 +7,7 @@
 # DOMAIN-SUFFIX: 
 # IP-CIDR: 
 # TOTAL: 
-# 
-DOMAIN,lt1.carryz.net
+#
 DOMAIN,temby856.285286.xyz
 DOMAIN,embymv.link
 DOMAIN,cc.coemn.com
@@ -16,8 +15,9 @@ DOMAIN,emby.pilipiliultra.com
 DOMAIN,fun.poloemby.xyz
 # 
 DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,carryz.net
 DOMAIN-SUFFIX,emby.wtf
 # 
-#DOMAIN-KEYWORD,carryz
+DOMAIN-KEYWORD,carryz
 DOMAIN-KEYWORD,embymv
 # IP-CIDR,154.17.10.127/24,no-resolve
