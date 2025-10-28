@@ -8,6 +8,7 @@
 # IP-CIDR: 
 # TOTAL: 
 #
+DOMAIN,ifastgb.com
 DOMAIN,temby856.285286.xyz
 DOMAIN,embymv.link
 DOMAIN,play.embymv.link
@@ -21,4 +22,5 @@ DOMAIN-SUFFIX,emby.wtf
 # 
 DOMAIN-KEYWORD,carryz
 DOMAIN-KEYWORD,embymv
+IP-CIDR,152.53.81.68/32,no-resolve
 # IP-CIDR,154.17.10.127/24,no-resolve
